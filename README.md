@@ -1,2 +1,0 @@
-# TermTest
-Created with CodeSandbox
